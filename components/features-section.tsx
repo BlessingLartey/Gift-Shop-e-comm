@@ -13,7 +13,7 @@ export function FeaturesSection() {
           <div className="flex flex-col lg:flex-row items-center gap-8">
             <div className="lg:w-1/2">
               <img
-                src="/placeholder.svg?height=400&width=500"
+                src="/images/hero-shop.jpg"
                 alt="Gift collection"
                 className="rounded-2xl shadow-lg w-full h-80 object-cover"
               />
@@ -37,7 +37,7 @@ export function FeaturesSection() {
           <div className="flex flex-col lg:flex-row-reverse items-center gap-8">
             <div className="lg:w-1/2">
               <img
-                src="/placeholder.svg?height=400&width=500"
+                src="/images/hero-customize.jpg"
                 alt="Custom gift creation"
                 className="rounded-2xl shadow-lg w-full h-80 object-cover"
               />
