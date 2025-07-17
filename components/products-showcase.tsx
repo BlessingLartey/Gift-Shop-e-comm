@@ -26,7 +26,7 @@ export function ProductsShowcase() {
         name: "Colas Delight",
         description: "A refreshing collection of premium cola-themed treats and accessories",
         price: 49.99,
-        image: "/placeholder.svg?height=300&width=300",
+        image: "images/cola1.jpg",
         isPopular: true,
       },
       {
@@ -34,7 +34,7 @@ export function ProductsShowcase() {
         name: "Shine and Light",
         description: "Illuminating gift set with candles, lights, and sparkling accessories",
         price: 79.99,
-        image: "/placeholder.svg?height=300&width=300",
+        image: "images/lights.jpg",
         isPopular: true,
       },
       {
@@ -42,7 +42,7 @@ export function ProductsShowcase() {
         name: "Beauty Essentials",
         description: "Luxurious beauty and skincare collection for the modern woman",
         price: 129.99,
-        image: "/placeholder.svg?height=300&width=300",
+        image: "images/beauty.jpg",
         isPopular: true,
       },
       {
@@ -50,14 +50,14 @@ export function ProductsShowcase() {
         name: "Bright n Gel",
         description: "Vibrant gel-based products for a colorful and fun experience",
         price: 39.99,
-        image: "/placeholder.svg?height=300&width=300",
+        image: "images/gel.jpg",
       },
       {
         id: "5",
         name: "Pearls Collection",
         description: "Elegant pearl jewelry and accessories for special occasions",
         price: 199.99,
-        image: "/placeholder.svg?height=300&width=300",
+        image: "images/pearl.jpg",
         isPopular: true,
       },
       {
@@ -65,21 +65,21 @@ export function ProductsShowcase() {
         name: "Delali Special",
         description: "Handcrafted artisanal items with cultural significance",
         price: 89.99,
-        image: "/placeholder.svg?height=300&width=300",
+        image: "images/craft.jpg",
       },
       {
         id: "7",
         name: "Pinkies Paradise",
         description: "Pink-themed collection perfect for those who love all things rosy",
         price: 59.99,
-        image: "/placeholder.svg?height=300&width=300",
+        image: "images/pink.jpg",
       },
       {
         id: "8",
         name: "Forever With You",
         description: "Romantic gift set designed to celebrate lasting love and commitment",
         price: 149.99,
-        image: "/placeholder.svg?height=300&width=300",
+        image: "images/forever.jpg",
         isPopular: true,
       },
     ]
